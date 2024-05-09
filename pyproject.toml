@@ -22,7 +22,7 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = ["matplotlib"]
+dependencies = ["matplotlib", "networkx"]
 
 [project.urls]
 Documentation = "https://github.com/silvanocerza/graph-matplotlib#readme"
